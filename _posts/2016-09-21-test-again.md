@@ -1,5 +1,8 @@
 ---
 published: true
+title: Test Again!
+date: '2016-09-21 11:27:59 -0700'
+categories: jekyll update
 ---
 ## A New Post
 
