@@ -1,4 +1,5 @@
 ---
+layout: post
 published: true
 title: Test Again real
 date: '2016-09-21 11:27:59 -0700'
